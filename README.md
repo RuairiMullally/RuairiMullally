@@ -4,7 +4,7 @@
 <!-- GitHub Stats by github-readme-stats.vercel.app -->
 
 <a href="https://github.com/RuairiMullally">
-  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuairiMullally&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,css" alt="Ruairi's GitHub Stats" />
+  <img align="top" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuairiMullally&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,css,Tcl" alt="Ruairi's GitHub Stats" />
 </a>
 
 <a href="https://github.com/RuairiMullally">
